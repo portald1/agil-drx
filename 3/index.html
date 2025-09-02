@@ -335,6 +335,7 @@
                             const telefone = localStorage.getItem('tel');
                             if (telefone) {
                                 params.phone = telefone;
+                                params.telephone = telefone.replace(/\D/g, '');
                             }
                             
                             // Criar e mostrar mensagem de sucesso
