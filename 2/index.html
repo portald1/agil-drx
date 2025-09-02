@@ -276,6 +276,12 @@
                 }
             }
             
+            // Garantir repasse do CPF como ?document= somente com números
+            const cpfArmazenado = localStorage.getItem('cpfUsuario');
+            if (cpfArmazenado) {
+                params.document = cpfArmazenado.replace(/\D/g, '');
+            }
+            
             // Adicionar efeito de carregamento ao botão
             const button = this;
             button.disabled = true;
